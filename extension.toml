@@ -1,0 +1,8 @@
+id = "2077-cyberpunk"
+name = "KvS Cypherpunk 2077"
+version = "0.0.1"
+schema_version = 1
+authors = ["notKvS"]
+description = "Inspired by VS Code 2077 theme"
+repository = "https://github.com/notKvS/2077-zed"
+themes = ["themes/KvS-2077.json"]
