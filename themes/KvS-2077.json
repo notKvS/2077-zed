@@ -149,10 +149,12 @@
         "color": "#c832ff"
       },
       "comment": {
-        "color": "#0098df"
+        "color": "#0098df",
+        "font_style": "italic"
       },
       "comment.doc": {
-        "color": "#0098df"
+        "color": "#0098df",
+        "font_style": "italic"
       },
       "constant": {
         "color": "#c832ff"
