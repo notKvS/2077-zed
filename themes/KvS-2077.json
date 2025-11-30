@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
   "author": "notKvS",
-  "name": "KvS Cypherpunk 2077",
+  "name": "KvS Cyberpunk 2077",
   "themes": [
     {
-      "name": "KvS Cypherpunk 2077",
+      "name": "KvS Cyberpunk 2077",
       "appearance": "dark",
       "style": {
         "background": "#03102c",
@@ -76,6 +76,8 @@
         "terminal.foreground": "#fdfeff",
         "terminal.bright_foreground": "#fdfeff",
 
+        "terminal.ansi.black": "#2e1250",
+        "terminal.ansi.bright_black": "#5a4a7a",
         "terminal.ansi.dim_black": "#2e1250",
 
         "terminal.ansi.red": "#ee1682",
@@ -104,11 +106,10 @@
         "terminal.ansi.white": "#f2f8ff",
         "terminal.ansi.bright_white": "#ffffff",
         "terminal.ansi.dim_white": "#b3c4d1",
-        
+
         "tooltip.background": "#0b1b45",
         "tooltip.border": "#181657",
         "tooltip.foreground": "#ff2e97",
-
 
         "link_text.hover": "#0ef3ff",
 
