@@ -4,6 +4,12 @@ A vibrant, neon-soaked theme for [Zed](https://zed.dev) inspired by the aestheti
 
 ## Preview
 
+![Screenshot 1](screenshots/1.png)
+
+![Screenshot 2](screenshots/2.png)
+
+### Color Highlights
+
 - **Deep blues and purples** for backgrounds (`#03102c`, `#0e0952`)
 - **Hot pink and magenta** for syntax highlighting (`#ff2e97`, `#ee0077`)
 - **Cyan accents** for strings and links (`#0ef3ff`)
