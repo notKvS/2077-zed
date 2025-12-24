@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "author": "notKvS",
   "name": "KvS Cyberpunk 2077",
   "themes": [
@@ -8,6 +8,7 @@
       "appearance": "dark",
       "style": {
         "background": "#03102c",
+        "background.appearance": "blurred",
         "status_bar.background": "#03102c",
         "elevated_surface.background": "#060144ff",
         "surface.background": "#0e0952",
@@ -46,13 +47,18 @@
 
         "panel.background": "#03102c",
         "panel.focused_border": "#181657",
+        "panel.indent_guide": "#181657",
+        "panel.indent_guide_active": "#0a2f66",
+        "panel.indent_guide_hover": "#073170",
         "pane.focused_border": "#181657",
+        "pane_group.border": "#165357ff",
         "scrollbar.thumb.background": "#fc309654",
         "scrollbar.thumb.hover_background": "#ee0077",
         "scrollbar.thumb.border": "#fc309654",
         "scrollbar.track.background": "#03102c",
         "scrollbar.track.border": "#181657",
         "title_bar.background": "#03102c",
+        "title_bar.inactive_background": "#02081c",
         "toolbar.background": "#03102c",
         "tab_bar.background": "#03102c",
         "tab.active_background": "#1d1641",
@@ -71,10 +77,14 @@
         "editor.active_wrap_guide": "#181657",
         "editor.document_highlight.read_background": "#0a2f66",
         "editor.document_highlight.write_background": "#073170",
+        "editor.document_highlight.bracket_background": "#994ae375",
+        "editor.indent_guide": "#181657",
+        "editor.indent_guide_active": "#0a2f66",
 
         "terminal.background": "#03102c",
         "terminal.foreground": "#fdfeff",
         "terminal.bright_foreground": "#fdfeff",
+        "terminal.ansi.background": "#03102c",
 
         "terminal.ansi.black": "#2e1250",
         "terminal.ansi.bright_black": "#5a4a7a",
