@@ -13,8 +13,8 @@
         "elevated_surface.background": "#060144ff",
         "surface.background": "#0e0952",
         "search.match_background": "#003496",
-        "border": "#181657",
-        "border.variant": "#181657",
+        "border": "#034685a5",
+        "border.variant": "#0083fda5",
         "border.focused": "#0a2f66",
         "border.selected": "#181657",
         "border.transparent": "#181657",
@@ -149,7 +149,7 @@
 
           "preproc": { "color": "#3dd69c" },
 
-          "punctuation": { "color": "#e5df3aff" },
+          "punctuation": { "color": "#7cd492ff" },
           "string": { "color": "#0ef3ff" },
           "string.escape": { "color": "#c832ff" },
           "string.regex": { "color": "#0ef3ff" },
@@ -188,8 +188,8 @@
 
         "element.background": "#2d003bff",
         "element.selected": "#6b004f",
-        "element.active": "#5a003f",
-        "element.hover": "#5a003f",
+        "element.active": "#00fff7ff",
+        "element.hover": "#00fff7ff",
         "element.disabled": "#3b003b",
 
         "error": "#ac077a",
