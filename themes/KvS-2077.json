@@ -149,7 +149,7 @@
 
           "preproc": { "color": "#3dd69c" },
 
-          "punctuation": { "color": "#ff2e97" },
+          "punctuation": { "color": "#e5df3aff" },
           "string": { "color": "#0ef3ff" },
           "string.escape": { "color": "#c832ff" },
           "string.regex": { "color": "#0ef3ff" },
